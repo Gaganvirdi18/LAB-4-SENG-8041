@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB 2 SENG 8041", "LAB 2 SENG 8041\LAB 2 SENG 8041.csproj", "{D885CC20-7983-41BE-8186-E142A490A8E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB 2 SENG 8041Tests", "LAB 2 SENG 8041Tests\LAB 2 SENG 8041Tests.csproj", "{CA5626B7-163A-43F3-96C2-FD36C284B563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D885CC20-7983-41BE-8186-E142A490A8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D885CC20-7983-41BE-8186-E142A490A8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D885CC20-7983-41BE-8186-E142A490A8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D885CC20-7983-41BE-8186-E142A490A8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5626B7-163A-43F3-96C2-FD36C284B563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5626B7-163A-43F3-96C2-FD36C284B563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5626B7-163A-43F3-96C2-FD36C284B563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5626B7-163A-43F3-96C2-FD36C284B563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C1E143-92B9-4BC3-8830-8FDBD15B2CF3}
+	EndGlobalSection
+EndGlobal
